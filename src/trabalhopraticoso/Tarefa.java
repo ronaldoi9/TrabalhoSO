@@ -39,6 +39,10 @@ public class Tarefa {
         this.idFuncionario = idFuncionario;
     }
     
+    public void teste(){
+        System.out.println("Ronaldo jhjhjhGajyhhjhj gayzsadaskkkkkkkkkkkkkkkkkkkkkk");
+    }
+    
     
     
 }
